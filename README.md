@@ -6,7 +6,6 @@
 You will need to install the library below:
 
 - tkinter
-- hashlib
 
 
 # Basic operation
